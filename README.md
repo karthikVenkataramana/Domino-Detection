@@ -17,11 +17,9 @@ I used labelImg: (https://github.com/tzutalin/labelImg) <br/>
 I have done all the hardwork :). You can just use them present in data/ folder. <br/>
 --------- <br/>
 # Training using Fast RCNN (Recurrent convolutional neural networks). <br/>
-python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_resnet101_pets.config
-<br/>--------- <br/>
+python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_resnet101_pets.config <br/>
 # Exports results to domino_graph folder <br/>
-python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/faster_rcnn_resnet101_pets.config --trained_checkpoint_prefix training/model.ckpt-59 --output_directory domino_graph
---------- <br/>
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/faster_rcnn_resnet101_pets.config --trained_checkpoint_prefix training/model.ckpt-59 --output_directory domino_graph<br/>
 
 # Classification used: <br/>
 Laying Face Down- A <br/>
