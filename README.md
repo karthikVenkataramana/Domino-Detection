@@ -3,10 +3,10 @@
 2) Google Object detection API (https://github.com/tensorflow/models/tree/master/research/object_detection) <br/>
 3) Jupyter Notebook <br/>
 4) Tensorflow <br/>
-<br/>
--------- <br/>
-Collaborator: <br/>
+<br/> 
+# Collaborator: <br/>
 Issac Sam Raj Boddu (ib0027) <br/>
+# Instructions <br/>
 -------- <br/> 
 Path should be set to models/research directory. (Present in object detection API repository) (I extracted to E: \ Machine Learning here) <br/>
 set PYTHONPATH=E:\Machine Learning\models\research;E:\Machine Learning\models\research\slim <br/>
