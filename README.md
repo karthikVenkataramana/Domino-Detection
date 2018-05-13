@@ -38,3 +38,6 @@ Image classes - https://drive.google.com/open?id=1S3-C-sr4PosHWT1YIEi8zUdTfD4Y33
 
 # Sample Output:
 ![Output](https://github.com/karthikVenkataramana/Domino-Detection/blob/master/output.PNG)
+
+<br/>Please read Report.pdf for detailed analysis and further research. <br/>
+Please drop in an email at karthik.venkat.p@gmail.com if you notice any bugs or security fixes.
