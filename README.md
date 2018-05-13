@@ -35,3 +35,4 @@ Shareable link - Image pips - https://drive.google.com/open?id=1EVlge23N4FHRklr2
 Image classes - https://drive.google.com/open?id=1S3-C-sr4PosHWT1YIEi8zUdTfD4Y33AS <br/>
 
 # Sample Output:
+![Output](https://github.com/karthikVenkataramana/Domino-Detection/blob/master/output.PNG)
