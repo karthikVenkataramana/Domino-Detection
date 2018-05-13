@@ -16,10 +16,10 @@ Object detection API accepts input images in the form of TFRecords (You can gene
 I used labelImg: (https://github.com/tzutalin/labelImg) <br/>
 I have done all the hardwork :). You can just use them present in data/ folder. <br/>
 --------- <br/>
-#Training using Fast RCNN (Recurrent convolutional neural networks). <br/>
+# Training using Fast RCNN (Recurrent convolutional neural networks). <br/>
 python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_resnet101_pets.config
 <br/>--------- <br/>
-#exports results to domino_graph folder <br/>
+# Exports results to domino_graph folder <br/>
 python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/faster_rcnn_resnet101_pets.config --trained_checkpoint_prefix training/model.ckpt-59 --output_directory domino_graph
 --------- <br/>
 
@@ -36,4 +36,4 @@ PIPS - P<br/>
 Shareable link - Image pips - https://drive.google.com/open?id=1EVlge23N4FHRklr2L5K6lt1eqZtKKhc0 <br/>
 Image classes - https://drive.google.com/open?id=1S3-C-sr4PosHWT1YIEi8zUdTfD4Y33AS <br/>
 
-#Output:
+# Sample Output:
