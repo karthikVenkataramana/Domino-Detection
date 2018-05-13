@@ -3,7 +3,7 @@
 2) Google Object detection API (https://github.com/tensorflow/models/tree/master/research/object_detection) <br/>
 3) Jupyter Notebook <br/>
 4) Tensorflow <br/>
-<br/> 
+
 # Collaborator: <br/>
 Issac Sam Raj Boddu (ib0027) <br/>
 # Instructions <br/>
