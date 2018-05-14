@@ -5,7 +5,7 @@
 4) Tensorflow <br/>
 
 # Collaborator: <br/>
-Issac Sam Raj Boddu (ib0027) <br/>
+Isaac Samuel Raj Boddu (ib0076) <br/>
 # Instructions <br/>
 -------- <br/> 
 Path should be set to models/research directory. (Present in object detection API repository) (I extracted to E: \ Machine Learning here) <br/>
